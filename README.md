@@ -1,2 +1,2 @@
 # Shared
-Diectory containing one more file(s) Shared for others
+Diectory containing one more file(s) Shared to others or some purpose.
